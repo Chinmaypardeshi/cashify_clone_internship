@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257427912545",
+    "project_id": "cashify-clone-e924d",
+    "storage_bucket": "cashify-clone-e924d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257427912545:android:d0235595817a4f70677720",
+        "android_client_info": {
+          "package_name": "com.example.chinmay_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257427912545-ml7ineda6js9r132fjec9fb78e8uspld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDy6cExtBzbPwJXnETiM4ZKQcHo7PSFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257427912545-ml7ineda6js9r132fjec9fb78e8uspld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

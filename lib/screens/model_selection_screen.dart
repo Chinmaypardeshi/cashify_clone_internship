@@ -41,7 +41,12 @@ class ModelSelectionScreen extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => ConditionQuestionnaireScreen(modelName: model),
+                    builder: (context) => const ConditionAssessmentScreen(
+                      category: 'Mobile',
+                      brand: 'Apple',
+                      modelName: 'iPhone 13',
+                      basePrice: 40000, // Pass the perfect-condition price here
+                    ),
                   ),
                 );
               },
